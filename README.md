@@ -1,2 +1,2 @@
-# projeto_portfolio
-Este é meu projeto para portfólio
+# project_portfolio
+This is my project for portfolio
